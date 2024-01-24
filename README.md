@@ -32,7 +32,7 @@ Utilize os botões numerados e operadores para inserir sua operação.
 Pressione o botão igual (=) para obter o resultado.
 Este projeto é ideal para quem procura uma calculadora leve e funcional, podendo ser facilmente incorporada em outros projetos web. Experimente e aprimore a experiência de cálculos em meu site! 🌐💡
 <br>
-***Apresentação do Projeto*** => [Clique aqui](calculadora-devclub.netlify.app) e confira a proposta do projeto.                                
+***Apresentação do Projeto*** => [Clique aqui](https://<calculadora-devclub>.netlify.app/) e confira a proposta do projeto.  https://<calculadora-devclub>.netlify.app/                              
  <p/>
  Esta CALCULADORA INTERATIVA foi CUIDADOSAMENTE desenvolvida com as mais avançadas TECNOLOGIAS: JavaScript, HTML e CSS, proporcionando uma experiência FUTURÍSTICA e INTUITIVA para os usuários! 🚀✨
 
